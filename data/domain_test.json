@@ -1,0 +1,458 @@
+[
+  {
+    "section": "computer_lab",
+    "question": "Till what time is the lab open on Saturdays?",
+    "answer": "9 AM to 1 PM on Saturdays",
+    "held_out": false
+  },
+  {
+    "section": "computer_lab",
+    "question": "What is not allowed inside the lab?",
+    "answer": "Food and drinks",
+    "held_out": false
+  },
+  {
+    "section": "wifi",
+    "question": "Which email ID should I write to for Wi-Fi issues?",
+    "answer": "itsupport@campus.edu",
+    "held_out": false
+  },
+  {
+    "section": "wifi",
+    "question": "What do I use to log in to CampusNet?",
+    "answer": "university email ID and password",
+    "held_out": false
+  },
+  {
+    "section": "printing",
+    "question": "How can I pay for extra pages?",
+    "answer": "UPI or the student wallet",
+    "held_out": false
+  },
+  {
+    "section": "moodle",
+    "question": "What is the website to log in to Moodle?",
+    "answer": "moodle.campus.edu",
+    "held_out": false
+  },
+  {
+    "section": "moodle",
+    "question": "What else can I view on Moodle apart from assignments?",
+    "answer": "attendance and internal marks",
+    "held_out": false
+  },
+  {
+    "section": "project_submission",
+    "question": "How many slides are allowed in the final PPT?",
+    "answer": "15 slides",
+    "held_out": false
+  },
+  {
+    "section": "library",
+    "question": "How many times can I renew a book?",
+    "answer": "once",
+    "held_out": false
+  },
+  {
+    "section": "gpu_lab",
+    "question": "How early do I need to book a GPU slot?",
+    "answer": "at least 1 day in advance",
+    "held_out": false
+  },
+  {
+    "section": "gpu_lab",
+    "question": "What do I need to get access for project work in the lab?",
+    "answer": "a faculty approval letter",
+    "held_out": false
+  },
+  {
+    "section": "student_email",
+    "question": "Where do I open my university mail?",
+    "answer": "mail.campus.edu",
+    "held_out": false
+  },
+  {
+    "section": "id_card",
+    "question": "What is needed along with the fee for a duplicate card?",
+    "answer": "A new photo",
+    "held_out": false
+  },
+  {
+    "section": "attendance",
+    "question": "For which attendance range can I apply for condonation?",
+    "answer": "between 65 and 75 percent",
+    "held_out": false
+  },
+  {
+    "section": "attendance",
+    "question": "How is lab attendance marked?",
+    "answer": "separately",
+    "held_out": false
+  },
+  {
+    "section": "exams_grading",
+    "question": "In which month are backlog exams conducted?",
+    "answer": "July",
+    "held_out": false
+  },
+  {
+    "section": "exams_grading",
+    "question": "How many marks is the end semester exam?",
+    "answer": "60 marks",
+    "held_out": false
+  },
+  {
+    "section": "hostel",
+    "question": "How many times a week is laundry available?",
+    "answer": "twice a week",
+    "held_out": false
+  },
+  {
+    "section": "transport",
+    "question": "Which cities do the university buses cover?",
+    "answer": "Delhi, Noida and Ghaziabad",
+    "held_out": false
+  },
+  {
+    "section": "transport",
+    "question": "How do I track the bus?",
+    "answer": "the university transport app",
+    "held_out": false
+  },
+  {
+    "section": "canteen",
+    "question": "Where can I send complaints about the food?",
+    "answer": "canteen@campus.edu",
+    "held_out": false
+  },
+  {
+    "section": "software_licences",
+    "question": "Which software comes under the campus licence?",
+    "answer": "MATLAB",
+    "held_out": false
+  },
+  {
+    "section": "it_helpdesk",
+    "question": "What are the help desk timings?",
+    "answer": "9 AM to 5 PM on weekdays",
+    "held_out": false
+  },
+  {
+    "section": "hardware_lab",
+    "question": "When is soldering allowed?",
+    "answer": "under supervision of the lab instructor",
+    "held_out": false
+  },
+  {
+    "section": "hardware_lab",
+    "question": "What can I borrow from the electronics lab?",
+    "answer": "Arduino boards and Raspberry Pi kits",
+    "held_out": false
+  },
+  {
+    "section": "placement_cell",
+    "question": "When can a student with an offer sit in more drives?",
+    "answer": "a dream offer",
+    "held_out": false
+  },
+  {
+    "section": "internships",
+    "question": "Who decides the internship stipend?",
+    "answer": "the company",
+    "held_out": false
+  },
+  {
+    "section": "fees_scholarships",
+    "question": "Where can I download my fee receipt?",
+    "answer": "the accounts section of the portal",
+    "held_out": false
+  },
+  {
+    "section": "clubs_events",
+    "question": "How many activity points do I get for volunteering?",
+    "answer": "3 activity points",
+    "held_out": false
+  },
+  {
+    "section": "medical",
+    "question": "Who is at the Health Centre after the doctor leaves?",
+    "answer": "a nurse",
+    "held_out": false
+  },
+  {
+    "section": "sports",
+    "question": "What should I wear in the indoor courts?",
+    "answer": "sports shoes",
+    "held_out": false
+  },
+  {
+    "section": "acceptable_use",
+    "question": "What is blocked on the network during class hours?",
+    "answer": "Online gaming",
+    "held_out": false
+  },
+  {
+    "section": "seminar_hall",
+    "question": "How many people can the seminar hall seat?",
+    "answer": "300 people",
+    "held_out": true
+  },
+  {
+    "section": "seminar_hall",
+    "question": "How early should I book the seminar hall?",
+    "answer": "at least 5 days in advance",
+    "held_out": true
+  },
+  {
+    "section": "seminar_hall",
+    "question": "What is the maximum booking time for the seminar hall?",
+    "answer": "4 hours",
+    "held_out": true
+  },
+  {
+    "section": "seminar_hall",
+    "question": "How much is the security deposit for the hall?",
+    "answer": "5000 rupees",
+    "held_out": true
+  },
+  {
+    "section": "certificates",
+    "question": "Where do I apply for a bonafide certificate?",
+    "answer": "the Academic Office in Block B",
+    "held_out": true
+  },
+  {
+    "section": "certificates",
+    "question": "How long does a bonafide certificate take?",
+    "answer": "2 working days",
+    "held_out": true
+  },
+  {
+    "section": "certificates",
+    "question": "What is the fee for an official transcript?",
+    "answer": "500 rupees",
+    "held_out": true
+  },
+  {
+    "section": "certificates",
+    "question": "When is the degree certificate given?",
+    "answer": "at the convocation ceremony",
+    "held_out": true
+  },
+  {
+    "section": "remote_access",
+    "question": "Which client do I need to install for VPN?",
+    "answer": "OpenVPN",
+    "held_out": true
+  },
+  {
+    "section": "remote_access",
+    "question": "How long does VPN account activation take?",
+    "answer": "1 working day",
+    "held_out": true
+  },
+  {
+    "section": "remote_access",
+    "question": "What can I access from home using the VPN?",
+    "answer": "the digital library and lab servers",
+    "held_out": true
+  },
+  {
+    "section": "remote_access",
+    "question": "From which semester is VPN available?",
+    "answer": "3rd semester and above",
+    "held_out": true
+  },
+  {
+    "section": "faculty_support",
+    "question": "What are the faculty office hours?",
+    "answer": "3 PM to 4 PM on weekdays",
+    "held_out": true
+  },
+  {
+    "section": "faculty_support",
+    "question": "How do I get an appointment with a faculty member?",
+    "answer": "the mentor portal",
+    "held_out": true
+  },
+  {
+    "section": "faculty_support",
+    "question": "When is a mentor assigned to a student?",
+    "answer": "in the first semester",
+    "held_out": true
+  },
+  {
+    "section": "faculty_support",
+    "question": "Who should I complain to about teaching?",
+    "answer": "the Head of Department",
+    "held_out": true
+  },
+  {
+    "section": "security_lost_found",
+    "question": "Where is the security office?",
+    "answer": "Gate 1",
+    "held_out": true
+  },
+  {
+    "section": "security_lost_found",
+    "question": "For how long are found items kept?",
+    "answer": "30 days",
+    "held_out": true
+  },
+  {
+    "section": "security_lost_found",
+    "question": "How much is a parking sticker?",
+    "answer": "300 rupees per year",
+    "held_out": true
+  },
+  {
+    "section": "security_lost_found",
+    "question": "What must visitors carry?",
+    "answer": "a visitor pass",
+    "held_out": true
+  },
+  {
+    "section": "coding_platform",
+    "question": "What is the website of the coding practice platform?",
+    "answer": "code.campus.edu",
+    "held_out": true
+  },
+  {
+    "section": "coding_platform",
+    "question": "When is the weekly coding contest?",
+    "answer": "every Sunday at 8 PM",
+    "held_out": true
+  },
+  {
+    "section": "coding_platform",
+    "question": "How many problems are there in each contest?",
+    "answer": "4 problems",
+    "held_out": true
+  },
+  {
+    "section": "coding_platform",
+    "question": "Who receives the contest scores?",
+    "answer": "the Training and Placement Cell",
+    "held_out": true
+  },
+  {
+    "section": null,
+    "question": "Who is the principal of the university?",
+    "answer": null,
+    "held_out": false
+  },
+  {
+    "section": null,
+    "question": "What is the fee for the MBA programme?",
+    "answer": null,
+    "held_out": false
+  },
+  {
+    "section": null,
+    "question": "Which companies visited the campus last year?",
+    "answer": null,
+    "held_out": false
+  },
+  {
+    "section": null,
+    "question": "What is the dress code on campus?",
+    "answer": null,
+    "held_out": false
+  },
+  {
+    "section": null,
+    "question": "How many floors does Block A have?",
+    "answer": null,
+    "held_out": false
+  },
+  {
+    "section": null,
+    "question": "What is the mess menu for Sunday?",
+    "answer": null,
+    "held_out": false
+  },
+  {
+    "section": null,
+    "question": "When does the next semester start?",
+    "answer": null,
+    "held_out": false
+  },
+  {
+    "section": null,
+    "question": "Which bank has a branch on the campus?",
+    "answer": null,
+    "held_out": false
+  },
+  {
+    "section": null,
+    "question": "Which laptop brand does the university recommend?",
+    "answer": null,
+    "held_out": false
+  },
+  {
+    "section": null,
+    "question": "What is the name of the vice chancellor?",
+    "answer": null,
+    "held_out": false
+  },
+  {
+    "section": null,
+    "question": "How many faculty members are there in the CS department?",
+    "answer": null,
+    "held_out": false
+  },
+  {
+    "section": null,
+    "question": "What is the university's NAAC grade?",
+    "answer": null,
+    "held_out": false
+  },
+  {
+    "section": null,
+    "question": "How much is the exam form fee?",
+    "answer": null,
+    "held_out": false
+  },
+  {
+    "section": null,
+    "question": "How many seats are there in B.Tech CSE?",
+    "answer": null,
+    "held_out": false
+  },
+  {
+    "section": null,
+    "question": "Who is the head librarian?",
+    "answer": null,
+    "held_out": false
+  },
+  {
+    "section": null,
+    "question": "Which projector brand is used in classrooms?",
+    "answer": null,
+    "held_out": false
+  },
+  {
+    "section": null,
+    "question": "What is the password of the guest Wi-Fi?",
+    "answer": null,
+    "held_out": false
+  },
+  {
+    "section": null,
+    "question": "What is the last date for admission?",
+    "answer": null,
+    "held_out": false
+  },
+  {
+    "section": null,
+    "question": "Where is the nearest metro station?",
+    "answer": null,
+    "held_out": false
+  },
+  {
+    "section": null,
+    "question": "What is the cost of a locker in the library?",
+    "answer": null,
+    "held_out": false
+  }
+]

@@ -1,0 +1,21 @@
+from pathlib import Path
+
+BASE_DIR = Path(__file__).resolve().parent
+DATA_DIR = BASE_DIR / 'data'
+MODEL_DIR = BASE_DIR / 'models' / 'qa_model'
+RESULTS_DIR = BASE_DIR / 'results'
+
+MODEL_NAME = 'deepset/roberta-base-squad2'
+TOP_K_SECTIONS = 3
+RETRIEVAL_THRESHOLD = 0.08
+QA_THRESHOLD = 0.0
+MAX_LENGTH = 384
+DOC_STRIDE = 128
+MAX_ANSWER_LENGTH = 30
+
+SEED = 42
+TRAIN_SAMPLES = 15000
+VALIDATION_SAMPLES = 2000
+EPOCHS = 2
+BATCH_SIZE = 8
+LEARNING_RATE = 3e-5

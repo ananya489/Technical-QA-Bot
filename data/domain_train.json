@@ -1,0 +1,742 @@
+[
+  {
+    "section": "computer_lab",
+    "question": "What are the computer lab timings on weekdays?",
+    "answer": "9 AM to 6 PM on weekdays"
+  },
+  {
+    "section": "computer_lab",
+    "question": "How many systems are there in the central lab?",
+    "answer": "80 systems"
+  },
+  {
+    "section": "computer_lab",
+    "question": "Which OS is installed on the lab computers?",
+    "answer": "Ubuntu 22.04"
+  },
+  {
+    "section": "computer_lab",
+    "question": "What do I need to carry to enter the lab?",
+    "answer": "ID card"
+  },
+  {
+    "section": "computer_lab",
+    "question": "On which days is the lab closed?",
+    "answer": "Sundays and public holidays"
+  },
+  {
+    "section": "computer_lab",
+    "question": "Who is the in-charge of the Central Computer Lab?",
+    "answer": null
+  },
+  {
+    "section": "computer_lab",
+    "question": "How much is the lab membership fee?",
+    "answer": null
+  },
+  {
+    "section": "wifi",
+    "question": "What is the name of the campus Wi-Fi network?",
+    "answer": "CampusNet"
+  },
+  {
+    "section": "wifi",
+    "question": "Where can I reset my Wi-Fi password?",
+    "answer": "IT Help Desk in Block A, Room 12"
+  },
+  {
+    "section": "wifi",
+    "question": "How long does a Wi-Fi password reset take?",
+    "answer": "up to 24 hours"
+  },
+  {
+    "section": "wifi",
+    "question": "How many devices can I connect to the Wi-Fi?",
+    "answer": "3 devices"
+  },
+  {
+    "section": "wifi",
+    "question": "What is the Wi-Fi speed limit per student?",
+    "answer": "20 Mbps"
+  },
+  {
+    "section": "wifi",
+    "question": "What is the monthly charge for extra Wi-Fi data?",
+    "answer": null
+  },
+  {
+    "section": "wifi",
+    "question": "Which router brand is used for the campus Wi-Fi?",
+    "answer": null
+  },
+  {
+    "section": "printing",
+    "question": "How many pages can a student print for free in a semester?",
+    "answer": "50 pages"
+  },
+  {
+    "section": "printing",
+    "question": "What is the cost of an extra printed page?",
+    "answer": "2 rupees per page"
+  },
+  {
+    "section": "printing",
+    "question": "How much does colour printing cost?",
+    "answer": "10 rupees per page"
+  },
+  {
+    "section": "printing",
+    "question": "Within how many days should print jobs be collected?",
+    "answer": "2 days"
+  },
+  {
+    "section": "printing",
+    "question": "Where is printing available?",
+    "answer": "the library counter and the Central Computer Lab"
+  },
+  {
+    "section": "printing",
+    "question": "What is the cost of A3 size printing?",
+    "answer": null
+  },
+  {
+    "section": "moodle",
+    "question": "What is Moodle used for?",
+    "answer": "assignments and course material"
+  },
+  {
+    "section": "moodle",
+    "question": "What is the username for Moodle login?",
+    "answer": "roll number"
+  },
+  {
+    "section": "moodle",
+    "question": "What is the default Moodle password?",
+    "answer": "the date of birth in DDMMYYYY format"
+  },
+  {
+    "section": "moodle",
+    "question": "Which file formats are allowed for assignment upload?",
+    "answer": "PDF or ZIP"
+  },
+  {
+    "section": "moodle",
+    "question": "What is the maximum file size for upload on Moodle?",
+    "answer": "20 MB"
+  },
+  {
+    "section": "moodle",
+    "question": "How can I download the Moodle mobile app?",
+    "answer": null
+  },
+  {
+    "section": "moodle",
+    "question": "Who is the Moodle administrator?",
+    "answer": null
+  },
+  {
+    "section": "project_submission",
+    "question": "Where should projects be submitted?",
+    "answer": "Moodle"
+  },
+  {
+    "section": "project_submission",
+    "question": "Who can permit a late submission?",
+    "answer": "the faculty coordinator"
+  },
+  {
+    "section": "project_submission",
+    "question": "What is the maximum page limit of a project report?",
+    "answer": "60 pages"
+  },
+  {
+    "section": "project_submission",
+    "question": "What is the allowed plagiarism limit for project reports?",
+    "answer": "15 percent"
+  },
+  {
+    "section": "project_submission",
+    "question": "Where must the project code be uploaded?",
+    "answer": "a public GitHub repository"
+  },
+  {
+    "section": "project_submission",
+    "question": "What is the penalty for late submission?",
+    "answer": null
+  },
+  {
+    "section": "library",
+    "question": "What are the library timings on weekdays?",
+    "answer": "8 AM to 8 PM"
+  },
+  {
+    "section": "library",
+    "question": "How many books can a student borrow at a time?",
+    "answer": "4 books"
+  },
+  {
+    "section": "library",
+    "question": "For how many days are books issued?",
+    "answer": "14 days"
+  },
+  {
+    "section": "library",
+    "question": "What is the late fine for a library book?",
+    "answer": "5 rupees per day"
+  },
+  {
+    "section": "library",
+    "question": "Which journals can I access in the digital library?",
+    "answer": "IEEE and Springer journals"
+  },
+  {
+    "section": "library",
+    "question": "What is the fine for losing a library book?",
+    "answer": null
+  },
+  {
+    "section": "gpu_lab",
+    "question": "Where is the Deep Learning Lab located?",
+    "answer": "Block C, Room 301"
+  },
+  {
+    "section": "gpu_lab",
+    "question": "How many GPU workstations are in the Deep Learning Lab?",
+    "answer": "10 GPU workstations"
+  },
+  {
+    "section": "gpu_lab",
+    "question": "Which GPU cards are installed in the lab?",
+    "answer": "NVIDIA RTX 3060"
+  },
+  {
+    "section": "gpu_lab",
+    "question": "How long is one GPU slot?",
+    "answer": "2 hours"
+  },
+  {
+    "section": "gpu_lab",
+    "question": "How many slots can a student book per week?",
+    "answer": "3 slots"
+  },
+  {
+    "section": "gpu_lab",
+    "question": "What is the GPU memory of each card?",
+    "answer": null
+  },
+  {
+    "section": "student_email",
+    "question": "In what format is the student email ID created?",
+    "answer": "rollnumber@campus.edu"
+  },
+  {
+    "section": "student_email",
+    "question": "How much storage does the student email have?",
+    "answer": "15 GB"
+  },
+  {
+    "section": "student_email",
+    "question": "Where is the initial email password sent?",
+    "answer": "the registered mobile number"
+  },
+  {
+    "section": "student_email",
+    "question": "Why should students check their email daily?",
+    "answer": "all notices are sent there"
+  },
+  {
+    "section": "student_email",
+    "question": "For how long does the email stay active after graduation?",
+    "answer": "6 months"
+  },
+  {
+    "section": "student_email",
+    "question": "What is the maximum attachment size in the student email?",
+    "answer": null
+  },
+  {
+    "section": "id_card",
+    "question": "Where do I apply for a duplicate ID card?",
+    "answer": "Administrative Office, Block B"
+  },
+  {
+    "section": "id_card",
+    "question": "How much does a duplicate ID card cost?",
+    "answer": "200 rupees"
+  },
+  {
+    "section": "id_card",
+    "question": "How many days does it take to get a duplicate ID card?",
+    "answer": "5 working days"
+  },
+  {
+    "section": "id_card",
+    "question": "What else is the ID card used for?",
+    "answer": "library access and bus travel"
+  },
+  {
+    "section": "id_card",
+    "question": "When is the student ID card issued?",
+    "answer": "during admission"
+  },
+  {
+    "section": "id_card",
+    "question": "What is the format of the ID card number?",
+    "answer": null
+  },
+  {
+    "section": "attendance",
+    "question": "What is the minimum attendance required for exams?",
+    "answer": "75 percent attendance"
+  },
+  {
+    "section": "attendance",
+    "question": "What is the condonation fee?",
+    "answer": "500 rupees per subject"
+  },
+  {
+    "section": "attendance",
+    "question": "What happens if attendance is below 65 percent?",
+    "answer": "detention in that subject"
+  },
+  {
+    "section": "attendance",
+    "question": "How often is attendance updated on Moodle?",
+    "answer": "every week"
+  },
+  {
+    "section": "attendance",
+    "question": "What is needed to apply for condonation?",
+    "answer": "a medical certificate"
+  },
+  {
+    "section": "attendance",
+    "question": "How many leaves are allowed per semester?",
+    "answer": null
+  },
+  {
+    "section": "exams_grading",
+    "question": "On what scale is CGPA calculated?",
+    "answer": "10 point scale"
+  },
+  {
+    "section": "exams_grading",
+    "question": "What is the minimum percentage needed to pass a subject?",
+    "answer": "40 percent"
+  },
+  {
+    "section": "exams_grading",
+    "question": "How many marks does internal assessment carry?",
+    "answer": "40 marks"
+  },
+  {
+    "section": "exams_grading",
+    "question": "Within how many days can I apply for re-evaluation?",
+    "answer": "7 days"
+  },
+  {
+    "section": "exams_grading",
+    "question": "What is the re-evaluation fee?",
+    "answer": "1000 rupees per paper"
+  },
+  {
+    "section": "exams_grading",
+    "question": "How are grace marks awarded?",
+    "answer": null
+  },
+  {
+    "section": "hostel",
+    "question": "Where is hostel admission done?",
+    "answer": "hostel office in Block D"
+  },
+  {
+    "section": "hostel",
+    "question": "What is the yearly hostel fee?",
+    "answer": "60000 rupees per year"
+  },
+  {
+    "section": "hostel",
+    "question": "At what time does the hostel gate close?",
+    "answer": "10 PM"
+  },
+  {
+    "section": "hostel",
+    "question": "When are visitors allowed in the hostel?",
+    "answer": "between 4 PM and 6 PM"
+  },
+  {
+    "section": "hostel",
+    "question": "How many students share one hostel room?",
+    "answer": "2 students"
+  },
+  {
+    "section": "hostel",
+    "question": "What is the hostel mess menu?",
+    "answer": null
+  },
+  {
+    "section": "transport",
+    "question": "How many bus routes does the university run?",
+    "answer": "12 routes"
+  },
+  {
+    "section": "transport",
+    "question": "What is the yearly bus fee?",
+    "answer": "25000 rupees per year"
+  },
+  {
+    "section": "transport",
+    "question": "At what times do buses leave the campus?",
+    "answer": "4 PM and 5 PM"
+  },
+  {
+    "section": "transport",
+    "question": "What is the bus pass linked to?",
+    "answer": "the student ID card"
+  },
+  {
+    "section": "transport",
+    "question": "Where is the transport office?",
+    "answer": "near Gate 2"
+  },
+  {
+    "section": "transport",
+    "question": "What is the fare for a single bus trip?",
+    "answer": null
+  },
+  {
+    "section": "canteen",
+    "question": "What are the canteen timings?",
+    "answer": "8 AM to 7 PM"
+  },
+  {
+    "section": "canteen",
+    "question": "How much does a meal thali cost?",
+    "answer": "60 rupees"
+  },
+  {
+    "section": "canteen",
+    "question": "What is the cost of the monthly meal plan?",
+    "answer": "2500 rupees"
+  },
+  {
+    "section": "canteen",
+    "question": "Which payment methods does the canteen accept?",
+    "answer": "UPI, cash and the student wallet"
+  },
+  {
+    "section": "canteen",
+    "question": "Where is the juice and snacks counter?",
+    "answer": "the library building"
+  },
+  {
+    "section": "canteen",
+    "question": "What is the price of a cold coffee at the canteen?",
+    "answer": null
+  },
+  {
+    "section": "software_licences",
+    "question": "How do students get Microsoft Office 365?",
+    "answer": "using their university email"
+  },
+  {
+    "section": "software_licences",
+    "question": "On how many devices can MATLAB be installed?",
+    "answer": "2 devices"
+  },
+  {
+    "section": "software_licences",
+    "question": "Where can the MATLAB licence key be collected?",
+    "answer": "the IT Help Desk"
+  },
+  {
+    "section": "software_licences",
+    "question": "How can students get JetBrains tools for free?",
+    "answer": "GitHub Student Developer Pack"
+  },
+  {
+    "section": "software_licences",
+    "question": "In how many days are software installation requests handled?",
+    "answer": "3 working days"
+  },
+  {
+    "section": "software_licences",
+    "question": "What is the licence cost of AutoCAD for students?",
+    "answer": null
+  },
+  {
+    "section": "it_helpdesk",
+    "question": "Where is the IT Help Desk located?",
+    "answer": "Block A, Room 12"
+  },
+  {
+    "section": "it_helpdesk",
+    "question": "At what website can students raise a ticket?",
+    "answer": "helpdesk.campus.edu"
+  },
+  {
+    "section": "it_helpdesk",
+    "question": "What is the helpline number for urgent IT issues?",
+    "answer": "1800-111-222"
+  },
+  {
+    "section": "it_helpdesk",
+    "question": "Within how many hours are most tickets resolved?",
+    "answer": "48 hours"
+  },
+  {
+    "section": "it_helpdesk",
+    "question": "Who should receive hardware complaints about lab computers?",
+    "answer": "the lab assistant"
+  },
+  {
+    "section": "it_helpdesk",
+    "question": "Who is the head of the IT Help Desk?",
+    "answer": null
+  },
+  {
+    "section": "hardware_lab",
+    "question": "Where is the Electronics and IoT Lab?",
+    "answer": "Block E, Room 105"
+  },
+  {
+    "section": "hardware_lab",
+    "question": "For how many days can Arduino boards be borrowed?",
+    "answer": "7 days"
+  },
+  {
+    "section": "hardware_lab",
+    "question": "What is the refundable deposit for a kit?",
+    "answer": "1500 rupees"
+  },
+  {
+    "section": "hardware_lab",
+    "question": "When are the lab sessions held?",
+    "answer": "2 PM to 5 PM on Tuesdays and Thursdays"
+  },
+  {
+    "section": "hardware_lab",
+    "question": "Who must replace damaged components?",
+    "answer": "the student"
+  },
+  {
+    "section": "hardware_lab",
+    "question": "How much does a 3D printing job cost?",
+    "answer": null
+  },
+  {
+    "section": "placement_cell",
+    "question": "Where is the Training and Placement Cell?",
+    "answer": "Block F, 2nd floor"
+  },
+  {
+    "section": "placement_cell",
+    "question": "In which semester do placement drives start?",
+    "answer": "7th semester"
+  },
+  {
+    "section": "placement_cell",
+    "question": "What is the minimum CGPA needed for placement drives?",
+    "answer": "6.0"
+  },
+  {
+    "section": "placement_cell",
+    "question": "How often are resume workshops conducted?",
+    "answer": "every month"
+  },
+  {
+    "section": "placement_cell",
+    "question": "Where must students register before applying to companies?",
+    "answer": "the placement portal"
+  },
+  {
+    "section": "placement_cell",
+    "question": "What is the average salary package offered?",
+    "answer": null
+  },
+  {
+    "section": "placement_cell",
+    "question": "Who is the head of the Training and Placement Cell?",
+    "answer": null
+  },
+  {
+    "section": "internships",
+    "question": "From which semester can students do internships?",
+    "answer": "4th semester"
+  },
+  {
+    "section": "internships",
+    "question": "What is the minimum internship duration for credits?",
+    "answer": "6 weeks"
+  },
+  {
+    "section": "internships",
+    "question": "How many days does it take to get an NOC?",
+    "answer": "3 working days"
+  },
+  {
+    "section": "internships",
+    "question": "Within how many days must the internship certificate be uploaded?",
+    "answer": "15 days"
+  },
+  {
+    "section": "internships",
+    "question": "How many credits can be earned from internships?",
+    "answer": "4 credits"
+  },
+  {
+    "section": "internships",
+    "question": "Which companies offer internships through the university?",
+    "answer": null
+  },
+  {
+    "section": "fees_scholarships",
+    "question": "Where must semester fees be paid?",
+    "answer": "the university portal"
+  },
+  {
+    "section": "fees_scholarships",
+    "question": "What is the late payment fine for fees?",
+    "answer": "100 rupees per day"
+  },
+  {
+    "section": "fees_scholarships",
+    "question": "What CGPA is needed for a merit scholarship?",
+    "answer": "above 9.0"
+  },
+  {
+    "section": "fees_scholarships",
+    "question": "In which month are scholarship applications accepted?",
+    "answer": "August"
+  },
+  {
+    "section": "fees_scholarships",
+    "question": "Where is the accounts office?",
+    "answer": "Block B, Room 4"
+  },
+  {
+    "section": "fees_scholarships",
+    "question": "What is the tuition fee for the B.Tech programme?",
+    "answer": null
+  },
+  {
+    "section": "clubs_events",
+    "question": "How many student clubs does the university have?",
+    "answer": "over 25"
+  },
+  {
+    "section": "clubs_events",
+    "question": "When does club recruitment happen?",
+    "answer": "first 2 weeks of the odd semester"
+  },
+  {
+    "section": "clubs_events",
+    "question": "In which month is the annual tech fest held?",
+    "answer": "March"
+  },
+  {
+    "section": "clubs_events",
+    "question": "Who conducts the hackathons?",
+    "answer": "the Coding Club"
+  },
+  {
+    "section": "clubs_events",
+    "question": "From where should event permissions be taken?",
+    "answer": "the Student Affairs Office"
+  },
+  {
+    "section": "clubs_events",
+    "question": "What is the budget of the annual tech fest?",
+    "answer": null
+  },
+  {
+    "section": "medical",
+    "question": "How many hours is the Health Centre open?",
+    "answer": "24 hours a day"
+  },
+  {
+    "section": "medical",
+    "question": "When is a doctor available at the Health Centre?",
+    "answer": "9 AM to 5 PM"
+  },
+  {
+    "section": "medical",
+    "question": "What is the ambulance number?",
+    "answer": "1800-222-333"
+  },
+  {
+    "section": "medical",
+    "question": "Who issues medical certificates for leave?",
+    "answer": "the Health Centre doctor"
+  },
+  {
+    "section": "medical",
+    "question": "What is provided free of cost at the Health Centre?",
+    "answer": "Basic medicines"
+  },
+  {
+    "section": "medical",
+    "question": "What is the name of the doctor at the Health Centre?",
+    "answer": null
+  },
+  {
+    "section": "sports",
+    "question": "What are the sports complex timings?",
+    "answer": "6 AM to 8 PM"
+  },
+  {
+    "section": "sports",
+    "question": "Which facilities are in the sports complex?",
+    "answer": "a cricket ground, a basketball court and a swimming pool"
+  },
+  {
+    "section": "sports",
+    "question": "How early should the badminton court be booked?",
+    "answer": "one day in advance"
+  },
+  {
+    "section": "sports",
+    "question": "On which day is the swimming pool closed?",
+    "answer": "Mondays"
+  },
+  {
+    "section": "sports",
+    "question": "What is the gym membership fee?",
+    "answer": "1000 rupees per semester"
+  },
+  {
+    "section": "sports",
+    "question": "Who is the sports coach for cricket?",
+    "answer": null
+  },
+  {
+    "section": "acceptable_use",
+    "question": "How long must a password be?",
+    "answer": "at least 8 characters"
+  },
+  {
+    "section": "acceptable_use",
+    "question": "How often must passwords be changed?",
+    "answer": "every 90 days"
+  },
+  {
+    "section": "acceptable_use",
+    "question": "What is prohibited on the campus network?",
+    "answer": "Downloading pirated software or movies"
+  },
+  {
+    "section": "acceptable_use",
+    "question": "What is the fine for violating the IT policy?",
+    "answer": "2000 rupees"
+  },
+  {
+    "section": "acceptable_use",
+    "question": "Where should suspicious emails be reported?",
+    "answer": "security@campus.edu"
+  },
+  {
+    "section": "acceptable_use",
+    "question": "What is the penalty for using mobile phones in exams?",
+    "answer": null
+  }
+]
