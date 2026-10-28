@@ -47,7 +47,6 @@ Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned
 streamlit run app.py
 ```
 
-The first model-backed run may download the RoBERTa model from Hugging Face. No model weights or datasets are included in the ZIP.
 
 ## Run the terminal demo without downloading a model
 
